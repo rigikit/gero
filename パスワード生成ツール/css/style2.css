@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  color: #444;
+}
+
+a {
+color: #444;
+text-decoration: none;
+}
+

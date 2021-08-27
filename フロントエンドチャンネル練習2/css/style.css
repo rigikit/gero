@@ -1,0 +1,12 @@
+@charset "utf-8";
+/*ここから*/
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.swiper-slide img {
+  width: 100%;
+  
+
+}
