@@ -19,3 +19,5 @@ for (let i = 0; i < animationTargetElements.length; i++) {
     targetElement.innerHTML += textsArray[k];
   }
 }
+
+
