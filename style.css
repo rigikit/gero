@@ -242,6 +242,10 @@ main .contents li.show img {
   transform: translate(20px,20px);
 }
 
+.animationTarget img {
+  padding: 12px;
+}
+
 .contentsText {
   display: flex;
   flex-direction: column;
